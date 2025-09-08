@@ -119,9 +119,11 @@
 
 <div align="center">
   <h3>💭 Quote</h3>
+  
+  ![Amelia Watson](https://img.shields.io/badge/-Amelia%20Watson%20🔎-D4AF37?style=for-the-badge&logo=apachemaven&logoColor=white)
+
   <blockquote>
     <i>"Time once spent never returns — but what we gained made it worth every heartbeat."</i>  
-    <br>— Amelia Watson
   </blockquote>
 </div>
 
