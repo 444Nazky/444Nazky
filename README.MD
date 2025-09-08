@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Banner](images/banner.png)
+![Profile Banner](images/ameee.jpeg)
 
 
 **Junior Frontend Developer | Website and Flutter Enthusiast**
