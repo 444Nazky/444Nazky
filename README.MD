@@ -85,15 +85,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=444Nazky&theme=react-dark&hide_border=true&area=true&bg_color=00000000)
 
----
-
-## 🎵 Currently Listening To
-
-<div align="center">
-
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31f6b533plbm5tzd4iucckfetf4a)  
-
-</div>
 
 ---
 
@@ -106,6 +97,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://444nazky.github.io/NazkyPortfolio/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naruzky.naz@gmail.com)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/444Nazky)
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31f6b533plbm5tzd4iucckfetf4a)  
 
 </div>
 
