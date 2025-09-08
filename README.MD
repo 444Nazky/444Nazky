@@ -93,8 +93,6 @@
 
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31f6b533plbm5tzd4iucckfetf4a)  
 
-[![Spotify Status](https://spotify-github-profile.vercel.app/api/view?uid=31f6b533plbm5tzd4iucckfetf4a&cover_image=true&theme=default&show_offline=false&background_color=00000000&interchange=false&bar_color=ff5e57&bar_color_cover=false)](https://open.spotify.com/user/31f6b533plbm5tzd4iucckfetf4a)
-
 </div>
 
 ---
