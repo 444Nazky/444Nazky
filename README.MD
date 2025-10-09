@@ -5,7 +5,7 @@
 ![Profile Banner](images/ameee2.png)
 
 
-**Junior Frontend Developer | Website and Flutter Enthusiast**
+**Junior Fullstack Developer | Website and Python Enthusiast **
 
 </div>
 
