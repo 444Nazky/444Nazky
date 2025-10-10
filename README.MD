@@ -1,4 +1,4 @@
-# Hi there, I'm Nazky 👋
+# Hi there, I'm Nazky Narutama 👋
 
 <div align="center">
 
