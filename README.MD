@@ -4,7 +4,7 @@
 
 ![Profile Banner](images/ameee2.png)
 
-**🐍 Python & Fullstack Developer | Web, Automation, and AI Enthusiast**
+**Junior Fullstack Developer | Web, Automation, and AI Enthusiast**
 
 </div>
 
