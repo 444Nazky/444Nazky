@@ -61,8 +61,8 @@
 
 <div align="center">
 
-![Nazky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=444Nazky&show_icons=true&count_private=true&hide_border=true&theme=radical&hide=issues&bg_color=00000000&custom_title=Nazky's%20Python%20Stats&include_all_commits=true&rank_icon=python)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=css,html&custom_title=Python%20Dominant%20Languages)  
+![Nazky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=444Nazky&show_icons=true&count_private=true&hide_border=true&theme=radical&hide=issues&bg_color=00000000&custom_title=Nazky's%20Python%20Stats&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=css,html&custom_title=Dominant%20Languages)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=444Nazky&theme=radical&hide_border=true&background=00000000)
 
 </div>
