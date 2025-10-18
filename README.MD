@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Banner](images/wew.jpg)
+![Profile Banner](images/wewew.png)
 
 **Junior Fullstack Developer | Web, Automation, and AI Enthusiast**
 
