@@ -4,7 +4,7 @@
 
 ![Profile Banner](images/ameee2.png)
 
-**Software Developer | Web, Automation, and AI Enthusiast**
+**Software Engineer | Web, Automation, and AI Enthusiast**
 
 </div>
 
@@ -15,7 +15,6 @@
 🚀 Passionate developer who loves turning ideas into working products.  
 💡 Currently focusing on **Python** for backend, automation, and AI projects.  
 🌱 Exploring **Django**, **FastAPI**, and **Flask** for powerful web apps.  
-⚡ Fun fact: Hololive fan, powerlifter, armwrestler — and proud owl parent to **Amei Pineapple** 🦉  
 
 ---
 
