@@ -82,14 +82,4 @@
 
 </div>
 
-<div align="center">
-
-  <blockquote>
-    <i><span style="color:#FFD700;">"Time once spent never returns, but what we gained made it worth every heartbeat."</span></i>  
-    <br>— <b>Amelia Watson</b>
-  </blockquote>
-</div>
-
 ---
-
-⭐️ From [Nazky](https://github.com/444Nazky)
