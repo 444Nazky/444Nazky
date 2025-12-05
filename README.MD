@@ -1,5 +1,3 @@
-# Hi there, I'm Nazky 👋
-
 <div align="center">
 
 ![Profile Banner](images/ameee2.png)
