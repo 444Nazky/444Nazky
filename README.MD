@@ -1,6 +1,11 @@
 <div align="center">
 
+<<<<<<< HEAD
 <img src="images/gitremovebg.png" width="100%" />
+=======
+![Profile Banner]<img src="images/gitremovebg.png" width="100%" />
+
+>>>>>>> 1b60cbc0a446f11931d32eac2dced5bdf7e5c2b0
 
 **Software Engineer | Python • Nmap • Automations • AI Enthusiast**
 
