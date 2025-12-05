@@ -21,7 +21,6 @@
 </p>
 
 <p>
-  <!-- Network / Security Tools -->
   <img src="https://img.shields.io/badge/-Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Metasploit-521E8A?style=for-the-badge&logo=metasploit&logoColor=white"/>
@@ -29,6 +28,9 @@
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Parrot%20OS-15AABF?style=for-the-badge&logo=parrotsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/>
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/-Snort-F05032?style=for-the-badge&logo=snort&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white"/>
   <img src="https://img.shields.io/badge/-pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
