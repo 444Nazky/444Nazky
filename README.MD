@@ -26,14 +26,12 @@
   <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Parrot%20OS-15AABF?style=for-the-badge&logo=parrotsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/-Snort-F05032?style=for-the-badge&logo=snort&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white"/>
   <img src="https://img.shields.io/badge/-pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Fail2Ban-5A5A5A?style=for-the-badge&logo=fail2ban&logoColor=white"/>
   <img src="https://img.shields.io/badge/-ClamAV-2E5EAA?style=for-the-badge&logo=clamav&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OSSEC-1E63A5?style=for-the-badge&logo=ossec&logoColor=white"/>
