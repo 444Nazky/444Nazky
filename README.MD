@@ -10,15 +10,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-🚀 Passionate developer who loves turning ideas into working products.  
-💡 Currently focusing on **Python** for backend, automation, and AI projects.  
-🌱 Exploring **Django**, **FastAPI**, and **Flask** for powerful web apps.  
-⚡ Fun fact: Hololive fan, powerlifter, armwrestler — and proud owl parent to **Amei Pineapple** 🦉  
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🐍 Core Languages
@@ -59,9 +50,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Nazky's GitHub Stats](https://github-readme-stats.vercel.app/api?username=444Nazky&show_icons=true&count_private=true&hide_border=true&theme=radical&hide=issues&bg_color=00000000&custom_title=Nazky's%20Stats&include_all_commits=true)  
+<div align="center">  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=css,html&custom_title=Dominant%20Languages)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=444Nazky&theme=radical&hide_border=true&background=00000000)
 
