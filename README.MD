@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](images/ameee2.png)
+![Profile Banner](images/gitbanner.png)
 
 **Software Engineer | Python • Nmap • Automations • AI Enthusiast**
 
