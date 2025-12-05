@@ -1,6 +1,6 @@
 <div align="center">
 
-![Profile Banner](images/gitbanner.png)
+![Profile Banner](images/gitremovebg.png)
 
 **Software Engineer | Python • Nmap • Automations • AI Enthusiast**
 
