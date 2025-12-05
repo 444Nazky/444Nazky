@@ -1,10 +1,10 @@
-# Hi there, i'm Nazky 👋
+# Hi there, I'm Nazky 👋
 
 <div align="center">
 
 ![Profile Banner](images/ameee2.png)
 
-**Software Developer | Web, Automation, and AI Enthusiast**
+**Software Developer | Python • Nmap • Automations • AI Enthusiast**
 
 </div>
 
@@ -56,32 +56,27 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=css,html&custom_title=Dominant%20Languages)  
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=css,html&custom_title=Dominant%20Languages)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=444Nazky&theme=radical&hide_border=true&background=00000000)
 
 </div>
 
 ---
 
-## 🎯 Current Goals
-
-- 🧠 Mastering **FastAPI** and **Django REST Framework**
-- 🤖 Building **automation & AI tools**
-- 📱 Creating **Flutter mobile apps**
-- ☁️ Exploring **DevOps & cloud deployments**
-- 🤝 Collaborating on open-source projects
-
----
-
 ## 📈 Contribution Graph
 
+<div align="center">
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=444Nazky&theme=react-dark&hide_border=true&area=true&bg_color=00000000)
+
+</div>
 
 ---
 
