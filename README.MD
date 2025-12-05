@@ -4,7 +4,7 @@
 
 ![Profile Banner](images/ameee2.png)
 
-**Software Developer | Python • Nmap • Automations • AI Enthusiast**
+**Software Engineer | Python • Nmap • Automations • AI Enthusiast**
 
 </div>
 
@@ -62,7 +62,8 @@
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&hide_border=true&theme=radical&bg_color=00000000&langs_count=6&hide=css,html&custom_title=Dominant%20Languages)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&theme=radical&hide_border=true&langs_count=6&bg_color=00000000&custom_title=Top%20Languages)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=444Nazky&theme=radical&hide_border=true&background=00000000)
 
