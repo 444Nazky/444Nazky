@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/gitremovebg.png" width="100%" />
+<img src="images/gittr.png" width="100%" />
 
 
 **Software Engineer | Python • Nmap • Automations • AI Enthusiast**
