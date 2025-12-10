@@ -82,7 +82,7 @@
 ## 📊 Language Statistics
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=444Nazky&layout=compact&theme=react&hide_border=true&bg_color=00000000" />
+<img src="https://tokei.rs/b1/github/444Nazky?category=code" />
 
 </div>
 
