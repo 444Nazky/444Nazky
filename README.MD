@@ -79,6 +79,15 @@
 
 ---
 
+## 📊 Language Statistics
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&hide_border=true&theme=react&bg_color=00000000)
+
+</div>
+
+---
 
 <div align="center">
 
