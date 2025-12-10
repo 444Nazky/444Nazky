@@ -82,9 +82,10 @@
 ## 📊 Language Statistics
 <div align="center">
 
-<img src="https://tokei.rs/b1/github/444Nazky?category=code" />
+<img src="https://api.githubtrends.io/user/svg/444Nazky/langs?time_range=all_time&theme=dark" />
 
 </div>
+
 
 
 ---
