@@ -82,9 +82,10 @@
 ## 📊 Language Statistics
 <div align="center">
 
-<img src="https://api.githubtrends.io/user/svg/444Nazky/langs?time_range=one_year&loc_metric=language&theme=dark" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=444Nazky&layout=compact&theme=react&hide_border=true&bg_color=00000000" />
 
 </div>
+
 
 ---
 
