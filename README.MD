@@ -69,25 +69,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=444Nazky&theme=react-dark&hide_border=true&area=true&bg_color=00000000)
-
-</div>
-
----
-
-## 📊 Language Statistics
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=444Nazky&layout=compact&theme=react&hide_border=true&bg_color=00000000&hide=html,css" />
-
-</div>
-
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Nazky)
