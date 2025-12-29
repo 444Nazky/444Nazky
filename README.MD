@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/-Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white"/>
+<img src="https://img.shields.io/badge/-NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
 </p>
 
 <p>
