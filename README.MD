@@ -74,7 +74,3 @@
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
----
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&langs_count=5&hide=html,css&cache_seconds=86400"/>
