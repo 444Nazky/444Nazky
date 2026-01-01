@@ -74,7 +74,3 @@
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
----
-
-[![Nazky's GitHub stats](https://github-readme-stats.vercel.app/api?username=444Nazky)](https://github.com/444Nazky/github-readme-stats)
