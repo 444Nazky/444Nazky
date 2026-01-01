@@ -77,8 +77,4 @@
 
 ---
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&theme=dark&langs_count=6&cache_seconds=86400"
-  />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=444Nazky&layout=compact&langs_count=5&hide=html,css&cache_seconds=86400"/>
