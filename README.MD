@@ -3,7 +3,7 @@
 <img src="images/gittrr2.png" width="100%" />
 
 
-**Software Engineer | Python • Nmap • Automations • AI Enthusiast**
+**| CEHv13 | CRTA | CAP v2 | CNSP | CAPC | EHE | Penetration Tester | Ethical Hacker | ISO 27001:2022 | IT GRC**
 
 </div>
 
