@@ -8,7 +8,7 @@
 
 ---
 
-### 💻 Languages & Frameworks
+###  Languages & Frameworks
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </p>
 
-### 🛡️ Offensive & Defensive Security
+###  Offensive & Defensive Security
 <p>
   <img src="https://img.shields.io/badge/-Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Burp%20Suite%20Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/-ISO%2027001-blue?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 </p>
 
-### 🖥️ Environments, DevOps & Tools
+###  Environments, DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Parrot%20OS-15AABF?style=for-the-badge&logo=parrotsecurity&logoColor=white"/>
