@@ -2,7 +2,7 @@
 
 <img src="images/gittrr2.png" width="100%" />
 
-**CEHv13 | CRTA | CAP v2 | CNSP | CAPC | EHE | Penetration Tester | Ethical Hacker | ISO 27001:2022 | IT GRC | C3SA | CySA+ | BTF | ELO 2500 BLITZ**
+**CEHv13 | CRTA | CAP v2 | CNSP | CAPC | EHE | Penetration Tester | Ethical Hacker | ISO 27001:2022 | IT GRC | C3SA | CySA+ | BTF | ELO 2500 BLITZ | ELO 1900 BULLETS**
 
 </div>
 
