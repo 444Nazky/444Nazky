@@ -58,3 +58,11 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
+
+<div align="center">
+
+<img src="images/patyangw.png" width="100%" />
+
+**CEHv13 | CRTA | CAP v2 | CNSP | CAPC | EHE | PenTest | Ethical Hacker | ISO 27001:2022 | IT GRC | C3SA | CySA+ | BTF | ELO 2500 BLITZ | ELO 1900 BULLETS | EXPDV**
+
+</div>
