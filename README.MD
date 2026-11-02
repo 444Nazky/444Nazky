@@ -5,6 +5,7 @@
 **CEHv13 | CRTA | CAP v2 | CNSP | CAPC | EHE | PenTest | Ethical Hacker | ISO 27001:2022 | IT GRC | C3SA | CySA+ | BTF | ELO 2500 BLITZ | ELO 1900 BULLETS | EXPDV**
 
 </div>
+<span style="color: #0d1117;">Narutama Nazril Khairrazky</span>
 
 ---
 ### Mobile & Web Development
