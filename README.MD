@@ -61,5 +61,5 @@
 
 <div align="center">
 
-<img src="images/patyangw.png" width="100%" />
+<img src="images/iniyangbaru.png" width="100%" />
 </div>
