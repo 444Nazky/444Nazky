@@ -32,9 +32,12 @@
   <img src="https://img.shields.io/badge/-Go-1E3A8A?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-1E3A8A?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-1E3A8A?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Zig-1E3A8A?style=for-the-badge&logo=zig&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Nim-1E3A8A?style=for-the-badge&logo=nim&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Assembly-1E3A8A?style=for-the-badge&logo=assemblyscript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Lua-1E3A8A?style=for-the-badge&logo=lua&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Pascal-1E3A8A?style=for-the-badge&logo=delphi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-1E3A8A?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bash-1E3A8A?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/-PowerShell-1E3A8A?style=for-the-badge&logo=powershell&logoColor=white"/>
 </p>
