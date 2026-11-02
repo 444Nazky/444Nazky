@@ -24,6 +24,10 @@
   <img src="https://img.shields.io/badge/-Vite-1E3A8A?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Tailwind_CSS-1E3A8A?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Netlify-1E3A8A?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Vercel-1E3A8A?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Firebase-1E3A8A?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Render-1E3A8A?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub_Pages-1E3A8A?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </p>
 
 ### Core Languages & Systems Programming
