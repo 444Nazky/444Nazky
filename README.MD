@@ -95,4 +95,4 @@
 <img src="images/iniyangbaru.png" width="100%" />
 </div>
 
-[Read More](./about.md)
+[Read More](/src/about.md)
