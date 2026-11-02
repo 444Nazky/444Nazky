@@ -45,6 +45,19 @@
   <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 </p>
 
+### Backend Development, Cloud & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cloudflared-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Tunnel-005571?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VPS-7B68EE?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Intranet-005571?style=for-the-badge&logo=gnome&logoColor=white"/>
+</p>
+
 ### Cybersecurity & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/-Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white"/>
