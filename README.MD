@@ -7,7 +7,6 @@
 </div>
 
 ---
-
 ### Mobile Development
 <p>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
@@ -63,9 +62,9 @@
   <img src="https://img.shields.io/badge/-Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Metasploit-521E8A?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Cobalt%20Strike-red?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Cobalt%20Strike-111111?style=for-the-badge&logo=target&logoColor=red"/>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ISO%2027001-blue?style=for-the-badge&logo=checkmarx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ISO%2027001-20232A?style=for-the-badge&logo=checkmarx&logoColor=00D8FF"/>
 </p>
 
 ### Environments & Tools
@@ -78,7 +77,6 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
 <div align="center">
 
 <img src="images/iniyangbaru.png" width="100%" />
