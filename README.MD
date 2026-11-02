@@ -6,8 +6,6 @@
 
 </div>
 
-<span style="color: #0d1117;">Narutama Nazril Khairrazky</span>
-
 ---
 ### Mobile & Web Development
 <p>
@@ -96,3 +94,5 @@
 
 <img src="images/iniyangbaru.png" width="100%" />
 </div>
+
+[Read More](./about.md)
