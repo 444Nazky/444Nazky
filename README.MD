@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="images/gittrr2.png" width="100%" />
-NARUTAMA NAZRIL KHAIRRAZKY
+
 **CEHv13 | CRTA | CAP v2 | CNSP | CAPC | EHE | PenTest | Ethical Hacker | ISO 27001:2022 | IT GRC | C3SA | CySA+ | BTF | ELO 2500 BLITZ | ELO 1900 BULLETS | EXPDV**
 
 </div>
