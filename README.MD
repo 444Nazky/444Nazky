@@ -79,6 +79,12 @@
   <img src="https://img.shields.io/badge/-Kali%20Linux-1E3A8A?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Parrot%20OS-1E3A8A?style=for-the-badge&logo=parrotsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Arch%20Linux-1E3A8A?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-BlackArch-1E3A8A?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ubuntu-1E3A8A?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Ubuntu%20Server-1E3A8A?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Debian-1E3A8A?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Alpine%20Linux-1E3A8A?style=for-the-badge&logo=alpinelinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Proxmox-1E3A8A?style=for-the-badge&logo=proxmox&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Windows%20Server-1E3A8A?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-1E3A8A?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Figma-1E3A8A?style=for-the-badge&logo=figma&logoColor=white"/>
