@@ -63,6 +63,14 @@
   <img src="https://img.shields.io/badge/-Metasploit-1E3A8A?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Cobalt%20Strike-1E3A8A?style=for-the-badge&logo=target&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Wireshark-1E3A8A?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-FFUF-1E3A8A?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Dirsearch-1E3A8A?style=for-the-badge&logo=gnu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Gobuster-1E3A8A?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Sqlmap-1E3A8A?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Hydra-1E3A8A?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-John%20the%20Ripper-1E3A8A?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Hashcat-1E3A8A?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Aircrack--ng-1E3A8A?style=for-the-badge&logo=wifi&logoColor=white"/>
   <img src="https://img.shields.io/badge/-ISO%2027001-1E3A8A?style=for-the-badge&logo=checkmarx&logoColor=white"/>
 </p>
 
