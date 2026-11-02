@@ -7,7 +7,7 @@
 </div>
 
 ---
-### Mobile Development
+### Mobile & Web Development
 <p>
   <img src="https://img.shields.io/badge/-Flutter-1E3A8A?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Dart-1E3A8A?style=for-the-badge&logo=dart&logoColor=white"/>
@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/-Ionic-1E3A8A?style=for-the-badge&logo=ionic&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Android-1E3A8A?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swift-1E3A8A?style=for-the-badge&logo=swift&logoColor=white"/>
-</p>
-
-### Web Development
-<p>
   <img src="https://img.shields.io/badge/-TypeScript-1E3A8A?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-1E3A8A?style=for-the-badge&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-React-1E3A8A?style=for-the-badge&logo=react&logoColor=white"/>
@@ -77,6 +73,7 @@
   <img src="https://img.shields.io/badge/-Figma-1E3A8A?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/-VS%20Code-1E3A8A?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
+
 ---
 
 <img src="images/iniyangbaru.png" width="100%" />
